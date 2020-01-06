@@ -5,10 +5,10 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="tinycircuits-wireling-light-sensor", 
-    version="0.0.1",
+    version="0.0.2",
     author="TinyCircuits",
     author_email="info@tinycircuits.com",
-    description="Wireling Python library v0.0.1",
+    description="Wireling Ambient Light Sensor Python library",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/TinyCircuits/TinyCircuits-Wireling-Light-Sensor-Python-AST1012",
