@@ -5,13 +5,13 @@ This repository holds a python example meant for using a TinyCircuits Ambient Li
 To install, use 
 
 ```
-pip3 install tinycircuits-wireling-light-sensor
+pip3 tinycircuits-tsl2572
 ```
 
 or if your default is Python 3:
 
 ```
-pip install tinycircuits-wireling-light-sensor
+pip install tinycircuits-tsl2572
 ```
 
 Software written by: [TinyCircuits](https://tinycircuits.com/) for use with TinyCircuits hardware 
