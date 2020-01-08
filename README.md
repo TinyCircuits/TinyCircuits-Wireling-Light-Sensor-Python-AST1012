@@ -1,6 +1,6 @@
 # TinyCircuits Wireling Light Sensor Python AST1012
 
-This repository holds a python example meant for using a TinyCircuits Ambient Light Sensor Wireling with a Raspberry Pi and Wireling Pi Hat.
+This repository holds a python example meant for using a TinyCircuits [Ambient Light Sensor Wireling](https://tinycircuits.com/collections/wireling-sensors/products/ambient-light-sensor-wireling) with a Raspberry Pi and Wireling Pi Hat.
 
 To install, use 
 
