@@ -1,1 +1,1 @@
-from .tinycircuits_tsl2572.py import *
+from .tinycircuits_tsl2572 import *

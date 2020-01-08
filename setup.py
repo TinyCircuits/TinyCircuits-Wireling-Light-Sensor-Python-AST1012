@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="tinycircuits-tsl2572", 
-    version="0.0.5",
+    version="0.0.7",
     author="TinyCircuits",
     author_email="info@tinycircuits.com",
     description="Wireling Ambient Light Sensor Python library",
