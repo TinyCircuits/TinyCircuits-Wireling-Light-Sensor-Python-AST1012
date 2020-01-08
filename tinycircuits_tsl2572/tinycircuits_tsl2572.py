@@ -13,10 +13,6 @@ except ImportError:
 import busio
 import board
 
-
-__version__ = "0.0.0-auto.0"
-__repo__ = "https://github.com/adafruit/TinyCircuits_CircuitPython_TSL2572.git"
-
 #    I2C ADDRESS/BITS/SETTINGS
 #    -----------------------------------------------------------------------
 
